@@ -1,0 +1,8 @@
+{
+    "name": "mdsystems/material-design-iconic-font",
+    "description": "Material Design Iconic font - forked from https://github.com/zavoloklom/material-design-iconic-font",
+    "type": "library",
+    "require": {
+    },
+    "license": "Fonts SIL OFL 1.1/Code MIT"
+}
